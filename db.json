@@ -1,5 +1,9 @@
 {
   "counter": {
     "value": 10
+  },
+  "verify": {
+    "value": "validated"
   }
+
 }
